@@ -48,6 +48,6 @@
   <a href = "https://br.pinterest.com/eduardomassucatti/_saved/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
   <a href = ""><img src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/EduardoMCastro/EduardoMCastro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/EduardoMCastro/EduardoMCastro/blob/output/github-contribution-grid-snake.svg)
  
 </div>
